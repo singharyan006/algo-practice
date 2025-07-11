@@ -1,4 +1,4 @@
-# 🧠 Algorithm Practice: Merge Sort & Fibonacci (The Odin Project)
+# 🧠 Algorithm Practice: Merge Sort & Fibonacci
 
 This project contains simple yet fundamental algorithm implementations done as part of [The Odin Project](https://www.theodinproject.com/) curriculum. The focus is on recursive thinking and solving problems like the Fibonacci sequence and Merge Sort from scratch using JavaScript.
 
