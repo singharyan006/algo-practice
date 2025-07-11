@@ -56,4 +56,5 @@ mergeSort([105, 79, 100, 110]);
 ## 📄 License
 This project is for educational purposes under the [MIT License](LICENSE).
 
+
 ---
