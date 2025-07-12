@@ -21,14 +21,19 @@ algo-practice
 
 ```
 
-### `fibonacci.js`
+### `🌀 fibonacci.js`
 - `fibs(limit)` → Iterative Fibonacci generator
 - `fibsRec(limit)` → Recursive Fibonacci generator
 
-### `mergeSort.js`
+### `🧮 mergeSort.js`
 - `mergeSort(arr)` → Recursive merge sort implementation
 - Includes a custom `merge()` function to combine sorted halves
 
+### `🧩 linked-list/`
+- Node.js → Defines the Node structure
+- LinkedList.js → Contains core linked list methods like:
+  - `append()`, `prepend()`, `size()`, `at()`, `pop()`, `find()`, `contains()`, `toString()`
+- test.js → Sample test cases to validate the implementation
 ---
 
 ## 🚀 Sample Inputs & Outputs
@@ -50,12 +55,6 @@ mergeSort([3, 2, 1, 13, 8, 5, 0, 1]);
 mergeSort([105, 79, 100, 110]);
 // ➜ [79, 100, 105, 110]
 ```
-
-### 🧩 Linked List
-- Node.js → Defines the Node structure
-- LinkedList.js → Contains core linked list methods like:
-  - `append()`, `prepend()`, `size()`, `at()`, `pop()`, `find()`, `contains()`, `toString()`
-- test.js → Sample test cases to validate the implementation
 
 ---
 
