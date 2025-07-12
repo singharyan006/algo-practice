@@ -49,7 +49,7 @@ mergeSort([105, 79, 100, 110]);
 ## 🧩 What I Learned
 - The difference between iterative and recursive thinking.
 - How to break problems down using base cases and divide & conquer logic.
-- The concept of binary sort in mergeSort and how beautifully are these algorithms are directly associated with our real lives.
+- The concept of mergeSort and how beautifully are these algorithms are directly associated with our real lives.
 - How recursion builds up the solution from the ground.
 - The importance of clean code, small reusable functions, and test-driven thinking.
 
