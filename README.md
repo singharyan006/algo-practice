@@ -21,11 +21,11 @@ algo-practice
 
 ```
 
-### `🌀 fibonacci.js`
+### `🌀 fibonacci/`
 - `fibs(limit)` → Iterative Fibonacci generator
 - `fibsRec(limit)` → Recursive Fibonacci generator
 
-### `🧮 mergeSort.js`
+### `🧮 merge-sort/`
 - `mergeSort(arr)` → Recursive merge sort implementation
 - Includes a custom `merge()` function to combine sorted halves
 
