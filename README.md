@@ -1,6 +1,6 @@
-# 🧠 Algorithm Practice: Merge Sort & Fibonacci
+# 🧠  Algorithm Practice: Merge Sort, Fibonacci & Linked List
 
-This project contains simple yet fundamental algorithm implementations done as part of [The Odin Project](https://www.theodinproject.com/) curriculum. The focus is on recursive thinking and solving problems like the Fibonacci sequence and Merge Sort from scratch using JavaScript.
+This project contains simple yet fundamental algorithm implementations done as part of [The Odin Project](https://www.theodinproject.com/) curriculum. The focus is on recursive thinking and solving problems like the Fibonacci sequence, Merge Sort and Linked Lists from scratch using JavaScript.
 
 ---
 
@@ -12,7 +12,13 @@ algo-practice
   │    └── recursive.js
   ├── merge-sort/
   │    └── mergeSort.js
+  ├── linked-list/
+  │    ├── Node.js
+  │    ├── LinkedList.js
+  │    ├── test.js
+  │    └── README.md
   └── README.md
+
 ```
 
 ### `fibonacci.js`
@@ -44,6 +50,13 @@ mergeSort([3, 2, 1, 13, 8, 5, 0, 1]);
 mergeSort([105, 79, 100, 110]);
 // ➜ [79, 100, 105, 110]
 ```
+
+### 🧩 Linked List
+- Node.js → Defines the Node structure
+- LinkedList.js → Contains core linked list methods like:
+  - `append()`, `prepend()`, `size()`, `at()`, `pop()`, `find()`, `contains()`, `toString()`
+- test.js → Sample test cases to validate the implementation
+
 ---
 
 ## 🧩 What I Learned
@@ -52,6 +65,9 @@ mergeSort([105, 79, 100, 110]);
 - The concept of mergeSort and how beautifully are these algorithms are directly associated with our real lives.
 - How recursion builds up the solution from the ground.
 - The importance of clean code, small reusable functions, and test-driven thinking.
+- The fundamentals of linked lists — how they work under the hood and how to implement one from scratch without built-in data structures.
+
+
 
 ---
 
