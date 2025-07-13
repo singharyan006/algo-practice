@@ -7,7 +7,7 @@ This project contains simple yet fundamental algorithm implementations done as p
 ## 📂 Files
 ```
 algo-practice
-  ├── fibonacci/
+  ├── recursion/
   │    ├── iterative.js
   │    └── recursive.js
   ├── merge-sort/
@@ -21,7 +21,7 @@ algo-practice
 
 ```
 
-### `🌀 fibonacci/`
+### `🌀 recursion/`
 - `fibs(limit)` → Iterative Fibonacci generator
 - `fibsRec(limit)` → Recursive Fibonacci generator
 
@@ -38,7 +38,7 @@ algo-practice
 
 ## 🚀 Sample Inputs & Outputs
 
-### Fibonacci:
+### Recursion:
 ```js
 fibs(8); 
 // ➜ [0, 1, 1, 2, 3, 5, 8, 13]
