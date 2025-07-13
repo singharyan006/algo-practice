@@ -24,7 +24,6 @@ algo-practice/
 │ ├── test.js
 │ └── README.md
 └── README.md
-
 ```
 
 ### `🌀 recursion/`
